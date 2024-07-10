@@ -21,6 +21,7 @@ Prompt de geração da imagem
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto fotos
+![Exemplo de Imagem](example.png)
 
 
 ## 💭 Reflexão (Opcional)
