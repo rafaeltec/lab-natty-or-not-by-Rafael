@@ -2,32 +2,27 @@
 
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ia Generativa de imagens e vídeos Stable Diffusion, licença de uso permissiva.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## Stable Diffusion é uma ferramenta bacana lançada em 2022 que transforma textos em imagens super detalhadas. Você só precisa descrever o que quer ver e ele cria a imagem para você! Além disso, também pode ser usado para editar partes de imagens e outras coisas legais.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Desenvolvido pela galera da CompVis na Universidade de Munique, junto com a startup Runway, o Stable Diffusion usa uma rede neural especial chamada modelo de difusão latente. Essa parceria também contou com a Stability AI, EleutherAI e LAION, e o melhor de tudo é que o código e os dados do modelo são abertos para todo mundo usar.
+
+O legal do Stable Diffusion é que ele tem um licenciamento bem flexível: as imagens que você cria são suas, desde que você não faça nada ilegal ou prejudicial com elas. No entanto, esse modelo gerou polêmica por usar imagens protegidas por direitos autorais para treinar a inteligência artificial. Isso levou a algumas questões sobre propriedade intelectual, criação de símbolos nazistas e pornografia ilegal. Alguns artistas e empresas até entraram na justiça contra a Stability AI por causa do uso de suas imagens no treinamento do modelo.
+
+## 🤖 IAs Generativas usadas:
+ChatGPT
+Stable Diffusion
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompt de geração da imagem
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresente os resultados do seu projeto fotos
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
