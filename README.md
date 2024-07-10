@@ -21,7 +21,7 @@ Prompt de geração da imagem
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto fotos
-![Persistência de Personagem]([image (10).png](https://github.com/rafaeltec/lab-natty-or-not-by-Rafael/blob/main/image%20(10).png?raw=true))
+![Exemplo de Imagem](https://github.com/rafaeltec/lab-natty-or-not-by-Rafael/blob/main/image%20(10).png?raw=true)
 
 
 ## 💭 Reflexão (Opcional)
