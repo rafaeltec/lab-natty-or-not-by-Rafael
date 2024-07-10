@@ -8,7 +8,7 @@
 
 Desenvolvido pela galera da CompVis na Universidade de Munique, junto com a startup Runway, o Stable Diffusion usa uma rede neural especial chamada modelo de difusão latente. Essa parceria também contou com a Stability AI, EleutherAI e LAION, e o melhor de tudo é que o código e os dados do modelo são abertos para todo mundo usar.
 
-O legal do Stable Diffusion é que ele tem um licenciamento bem flexível: as imagens que você cria são suas, desde que você não faça nada ilegal ou prejudicial com elas. No entanto, esse modelo gerou polêmica por usar imagens protegidas por direitos autorais para treinar a inteligência artificial. Isso levou a algumas questões sobre propriedade intelectual, criação de símbolos nazistas e pornografia ilegal. Alguns artistas e empresas até entraram na justiça contra a Stability AI por causa do uso de suas imagens no treinamento do modelo.
+O legal do Stable Diffusion é que ele tem um licenciamento bem flexível: as imagens que você cria são suas, desde que você não faça nada ilegal ou prejudicial com elas. No entanto, esse modelo gerou polêmica por usar imagens protegidas por direitos autorais para treinar a inteligência artificial.
 
 ## 🤖 IAs Generativas usadas:
 - ChatGPT
