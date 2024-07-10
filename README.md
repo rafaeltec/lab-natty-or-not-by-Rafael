@@ -26,6 +26,7 @@ Street Background, masterpiece, best quality,3dmm style,3d,realistic, high-quali
 Resultados do projeto:
 ![Exemplo de Imagem](https://github.com/rafaeltec/lab-natty-or-not-by-Rafael/blob/main/workflow.jpg)
 ![Exemplo de Imagem](https://github.com/rafaeltec/lab-natty-or-not-by-Rafael/blob/main/ComfyUI_temp_pmzjp_00004_.png)
+![Exemplo de Imagem](https://github.com/rafaeltec/lab-natty-or-not-by-Rafael/blob/main/image%20(5).png)
 
 
 ## 💭 Reflexão 
