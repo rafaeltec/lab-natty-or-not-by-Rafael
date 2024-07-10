@@ -1,7 +1,7 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 
-```markdown
+
 # Ia Generativa de imagens e vídeos Stable Diffusion, licença de uso permissiva.
 
 ## Stable Diffusion é uma ferramenta bacana lançada em 2022 que transforma textos em imagens super detalhadas. Você só precisa descrever o que quer ver e ele cria a imagem para você! Além disso, também pode ser usado para editar partes de imagens e outras coisas legais.
@@ -23,6 +23,5 @@ Apresente os resultados do seu projeto fotos
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 
