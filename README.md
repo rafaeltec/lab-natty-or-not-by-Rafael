@@ -11,8 +11,9 @@ Desenvolvido pela galera da CompVis na Universidade de Munique, junto com a star
 O legal do Stable Diffusion é que ele tem um licenciamento bem flexível: as imagens que você cria são suas, desde que você não faça nada ilegal ou prejudicial com elas. No entanto, esse modelo gerou polêmica por usar imagens protegidas por direitos autorais para treinar a inteligência artificial. Isso levou a algumas questões sobre propriedade intelectual, criação de símbolos nazistas e pornografia ilegal. Alguns artistas e empresas até entraram na justiça contra a Stability AI por causa do uso de suas imagens no treinamento do modelo.
 
 ## 🤖 IAs Generativas usadas:
-ChatGPT
-Stable Diffusion
+- ChatGPT
+- Stable Diffusion
+
 
 
 ## 🧐 Processo de Criação
