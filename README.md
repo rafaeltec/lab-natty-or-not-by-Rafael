@@ -23,7 +23,7 @@ with long, straight hair, blonde with some light brown highlights. His face is s
 Street Background, masterpiece, best quality,3dmm style,3d,realistic, high-quality, 3D realistic works, ultra-high details, 4k, real skin materials,simple background.
 
 ## 🚀 Resultados
-Resultados do projeto fotos:
+Resultados do projeto:
 ![Exemplo de Imagem](https://github.com/rafaeltec/lab-natty-or-not-by-Rafael/blob/main/workflow.jpg)
 ![Exemplo de Imagem](https://github.com/rafaeltec/lab-natty-or-not-by-Rafael/blob/main/ComfyUI_temp_pmzjp_00004_.png)
 
