@@ -28,7 +28,8 @@ Resultados do projeto fotos:
 ![Exemplo de Imagem](https://github.com/rafaeltec/lab-natty-or-not-by-Rafael/blob/main/ComfyUI_temp_pmzjp_00004_.png)
 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão 
+Tenho dedicado minha carreira ao trabalho com imagens generativas, progredindo constantemente em direção à reprodução fiel de pessoas, cenários e eventos cotidianos. 
+Cada avanço que alcanço me aproxima ainda mais da realidade, refletindo com precisão os detalhes e nuances do mundo ao nosso redor. Meu compromisso contínuo com a inovação e a excelência nesse campo torna a reprodução do mundo real uma meta cada vez mais tangível e alcançável.
 
 
