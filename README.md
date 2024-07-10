@@ -21,6 +21,7 @@ Prompt de geração da imagem
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto fotos
+![Uploading image (10).png…]()
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
