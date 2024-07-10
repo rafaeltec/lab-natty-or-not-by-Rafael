@@ -17,7 +17,10 @@ O legal do Stable Diffusion é que ele tem um licenciamento bem flexível: as im
 
 
 ## 🧐 Processo de Criação
-Prompt de geração da imagem
+Prompt de geração da imagem:
+A character, a 28-year-old woman, from the corporate sector. Looking forward, showing the entire body.
+with long, straight hair, blonde with some light brown highlights. His face is square, square chin, thick lips, his skin has detailed skin texture.
+Street Background, masterpiece, best quality,3dmm style,3d,realistic, high-quality, 3D realistic works, ultra-high details, 4k, real skin materials,simple background.
 
 ## 🚀 Resultados
 Resultados do projeto fotos:
