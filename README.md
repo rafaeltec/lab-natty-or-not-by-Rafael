@@ -2,7 +2,7 @@
 
 
 
-# Ia Generativa de imagens e vídeos Stable Diffusion, licença de uso permissiva.
+# Ia Generativa de imagens e vídeos Stable Diffusion.
 
 ## Stable Diffusion é uma ferramenta bacana lançada em 2022 que transforma textos em imagens super detalhadas. Você só precisa descrever o que quer ver e ele cria a imagem para você! Além disso, também pode ser usado para editar partes de imagens e outras coisas legais.
 
