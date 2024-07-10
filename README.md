@@ -20,7 +20,7 @@ O legal do Stable Diffusion é que ele tem um licenciamento bem flexível: as im
 Prompt de geração da imagem
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto fotos
+Resultados do projeto fotos:
 ![Exemplo de Imagem](https://github.com/rafaeltec/lab-natty-or-not-by-Rafael/blob/main/image%20(10).png?raw=true)
 
 
