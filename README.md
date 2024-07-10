@@ -21,7 +21,7 @@ Prompt de geração da imagem
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto fotos
-
+https://github.com/rafaeltec/lab-natty-or-not-by-Rafael/blob/main/image%20(10).png
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
